@@ -5,7 +5,7 @@ An automated daily sales reporting workflow built with **n8n**, **JavaScript**, 
 This project was created as a hands-on mini project to practice workflow automation, data processing, JSON, expressions, and GitHub integration.
 
 ---
-![n8n Workflow](workflow.png)
+![n8n Workflow](Screenshot (141).png)
 
 ## 🚀 Project Overview
 
